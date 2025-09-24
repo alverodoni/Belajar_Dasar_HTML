@@ -9,20 +9,22 @@
 
     <h1>Memformat Teks dan Hyperlink</h1>
 <nav>
-        <a href="lab1_tag_dasar.html">Dasar HTML</a>
-        <a href="lab1_halaman2.html">Halaman 2</a>
+        <a href="https://share.google/j0VSlsikEz9Oj8Vqu">Dasar HTML</a>
+        <a href="https://share.google/JkbE5hTjTGiSHBy5X">Halaman 2</a>
         <a href="http://www.google.com">Halaman Web Eksternal Google</a>
 </nav>
 <hr>
 
     <h2>Belajar Dasar HTML</h2>
-  <p align="justify">Kami sedang belajar HTML dasar, pada matakuliah Pemrograman Web di Prodi Teknik Informatika Universitas Pelita Bangsa. Pelajaran pertama yang kami dapat adalah membuat tampilan web sederhana dalam rangka mengenal tag-tag dasar HTML.</p>
+  <p align="justify">Kami sedang belajar HTML dasar, pada matakuliah Pemrograman Web di Prodi Teknik Informatika Universitas Pelita Bangsa. 
+    Pelajaran pertama yang kami dapat adalah membuat tampilan web sederhana dalam rangka mengenal tag-tag dasar HTML.</p>
 
     <h3>Paragraf pada HTML</h3>
-  <p align="left">Ini merupakan sebuah paragraf yang terdiri dari beberapa kalimat yang saling mendukung sehingga menjadi satu kesatuan. Paragraf dibuat dengan menggunakan tag dasar html.</p>
+  <p align="left">Ini merupakan sebuah paragraf yang terdiri dari beberapa
+    kalimat yang saling mendukung sehingga menjadi satu kesatuan. Paragraf dibuat dengan menggunakan tag dasar html.</p>
   
-    <h4>Menambahkan Gambar</h4>
-  <img width="225" height="225" alt="logo_UPB" src="https://github.com/user-attachments/assets/2bc669e9-1f55-443d-9ace-ad328a2ae415" />
+  <h4>Menambahkan Gambar</h4>
+  <img src="Logo_UPB.png" title="Logo Universitas Pelita Bangsa">
 
 </body>
 </html>
