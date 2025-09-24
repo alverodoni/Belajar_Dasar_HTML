@@ -36,7 +36,7 @@ Mata Kuliah: Pemograman Web 1 <p>
 
 
 1. Perubahan Kode dan Error Penulisan Tag
-   - jika salah menulis <h1> sebagai <h1 atau </h1 sebagai </H1, peramban kemungkinan besar akan tetap menampilkannya dengan benar.
+   > jika salah menulis <h1> sebagai <h1 atau </h1 sebagai </H1, peramban kemungkinan besar akan tetap menampilkannya dengan benar.
 2. Perbedaan Tag p & br
    - Secara sederhana, <p> memulai paragraf baru dengan spasi, sedangkan <br> hanya memindahkan kursor ke baris baru.
 3. Perbedaan Atribut title dan alt pada Tag <img>
