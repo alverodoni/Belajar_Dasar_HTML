@@ -34,8 +34,9 @@ Mata Kuliah: Pemograman Web 1 <p>
 </body>
 </html>
 
+
 1. Perubahan Kode dan Error Penulisan Tag
-2. Perbedaan Tag <p> dan <br>
+2. Perbedaan Tag <p> & <br>
    > Secara sederhana, <p> memulai paragraf baru dengan spasi, sedangkan <br> hanya memindahkan kursor ke baris baru.
 3. Perbedaan Atribut title dan alt pada Tag <img>
    > Image atau gambar dapat disisipkan kedalam halaman web. HTML menyediakan tag khusus untuk dapat menampilkan gambar. Tag yang digunakan untuk menampilkan gambar adalag <img> dengan atribut src sebagai URL          atau Path file gambar berada. Tag ini dapat memuat gambar dengan berbagai jenis ekstensi file gambar.
@@ -44,3 +45,10 @@ Mata Kuliah: Pemograman Web 1 <p>
      - height = ukuran tinggi badan
      - width = ukuran lebar gambar
      - rsc = ukuran gambar yang ditampilkan 
+4. Mengatur Ukuran Gambar (width dan height)
+   > "<img width="225" heigth="225" alt="logo_UPB" src="https://github.com/user-attachments/assets/30c704a4-19b9-4f08-81dd-f78fa6ded3e7" />
+5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, _parent )
+   > _blank: Tautan akan dibuka di jendela atau tab peramban baru.
+   > _self: Tautan akan dibuka di jendela atau tab yang sama dengan dokumen saat ini. Ini adalah perilaku bawaan (default) jika atribut target tidak ditentukan.
+   > _top: Tautan akan dibuka di jendela atau bingkai (frame) paling atas yang berisi link tersebut. Jika tidak ada bingkai induk, perilakunya sama seperti _self. Nilai ini berguna jika halaman Anda menggunakan        frameset.
+   > _parent: Tautan akan dibuka di bingkai induk (parent frame) dari bingkai tempat link berada. Jika tidak ada bingkai induk, perilakunya sama dengan _self.
