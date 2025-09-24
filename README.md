@@ -29,15 +29,18 @@ Mata Kuliah: Pemograman Web 1 <p>
     kalimat yang saling mendukung sehingga menjadi satu kesatuan. Paragraf dibuat dengan menggunakan tag dasar html.</p>
   
   <h4>Menambahkan Gambar</h4>
-  "<img width="225" height="225" alt="logo_UPB" src="https://github.com/user-attachments/assets/30c704a4-19b9-4f08-81dd-f78fa6ded3e7" />
+  "<img width="300" height="300" alt="logo_UPB" src="https://github.com/user-attachments/assets/30c704a4-19b9-4f08-81dd-f78fa6ded3e7" />
 
 </body>
 </html>
 
 1. Perubahan Kode dan Error Penulisan Tag
-2. a
 2. Perbedaan Tag <p> dan <br>
-   Secara sederhana, <p> memulai paragraf baru dengan spasi, sedangkan <br> hanya memindahkan kursor ke baris baru.
+   > Secara sederhana, <p> memulai paragraf baru dengan spasi, sedangkan <br> hanya memindahkan kursor ke baris baru.
 3. Perbedaan Atribut title dan alt pada Tag <img>
    > Image atau gambar dapat disisipkan kedalam halaman web. HTML menyediakan tag khusus untuk dapat menampilkan gambar. Tag yang digunakan untuk menampilkan gambar adalag <img> dengan atribut src sebagai URL          atau Path file gambar berada. Tag ini dapat memuat gambar dengan berbagai jenis ekstensi file gambar.
      - title = judul gambar
+     - alt = deskripsi tentang gambar
+     - height = ukuran tinggi badan
+     - width = ukuran lebar gambar
+     - rsc = ukuran gambar yang ditampilkan 
