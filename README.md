@@ -36,9 +36,9 @@ Mata Kuliah: Pemograman Web 1 <p>
 
 
 1. Perubahan Kode dan Error Penulisan Tag
-   >  jika Anda salah menulis <h1> sebagai <h1 atau </h1 sebagai </H1, peramban kemungkinan besar akan tetap menampilkannya dengan benar. Namun, kesalahan seperti penulisan nama tag yang salah (misalnya, <p tanpa    >) atau penutupan tag yang tidak tepat bisa menyebabkan tampilan halaman menjadi tidak sesuai dengan yang diharapkan. Bagian dari halaman mungkin tidak terlihat, atau pemformatan teks menjadi kacau. Ini bukan     "error" dalam arti program crash, melainkan kesalahan render yang membuat tampilan jadi berantakan.
+   - jika Anda salah menulis <h1> sebagai <h1 atau </h1 sebagai </H1, peramban kemungkinan besar akan tetap menampilkannya dengan benar. Namun, kesalahan seperti penulisan nama tag yang salah (misalnya, <p tanpa       >) atau penutupan tag yang tidak tepat bisa menyebabkan tampilan halaman menjadi tidak sesuai dengan yang diharapkan. Bagian dari halaman mungkin tidak terlihat, atau pemformatan teks menjadi kacau. Inibukan      "error" dalam arti program crash, melainkan kesalahan render yang membuat tampilan jadi berantakan.
 2. Perbedaan Tag <p> & <br>
-   > Secara sederhana, <p> memulai paragraf baru dengan spasi, sedangkan <br> hanya memindahkan kursor ke baris baru.
+   - Secara sederhana, <p> memulai paragraf baru dengan spasi, sedangkan <br> hanya memindahkan kursor ke baris baru.
 3. Perbedaan Atribut title dan alt pada Tag <img>
    > Image atau gambar dapat disisipkan kedalam halaman web. HTML menyediakan tag khusus untuk dapat menampilkan gambar. Tag yang digunakan untuk menampilkan gambar adalag <img> dengan atribut src sebagai URL          atau Path file gambar berada. Tag ini dapat memuat gambar dengan berbagai jenis ekstensi file gambar.
      - title = judul gambar
@@ -49,7 +49,7 @@ Mata Kuliah: Pemograman Web 1 <p>
 4. Mengatur Ukuran Gambar (width dan height)
    "<img width="225" heigth="225" alt="logo_UPB" src="https://github.com/user-attachments/assets/30c704a4-19b9-4f08-81dd-f78fa6ded3e7" />
 5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, _parent )
-   > blank: Tautan akan dibuka di jendela atau tab peramban baru.
-   > self: Tautan akan dibuka di jendela atau tab yang sama dengan dokumen saat ini. Ini adalah perilaku bawaan (default) jika atribut target tidak ditentukan.
-   > top: Tautan akan dibuka di jendela atau bingkai (frame) paling atas yang berisi link tersebut. Jika tidak ada bingkai induk, perilakunya sama seperti _self. Nilai ini berguna jika halaman Anda menggunakan         frameset.
-   > parent: Tautan akan dibuka di bingkai induk (parent frame) dari bingkai tempat link berada. Jika tidak ada bingkai induk, perilakunya sama dengan _self.
+   - blank: Tautan akan dibuka di jendela atau tab peramban baru.
+   - self: Tautan akan dibuka di jendela atau tab yang sama dengan dokumen saat ini. Ini adalah perilaku bawaan (default) jika atribut target tidak ditentukan.
+   - top: Tautan akan dibuka di jendela atau bingkai (frame) paling atas yang berisi link tersebut. Jika tidak ada bingkai induk, perilakunya sama seperti _self. Nilai ini berguna jika halaman Anda menggunakan         frameset.
+   - parent: Tautan akan dibuka di bingkai induk (parent frame) dari bingkai tempat link berada. Jika tidak ada bingkai induk, perilakunya sama dengan _self.
