@@ -29,7 +29,7 @@ Mata Kuliah: Pemograman Web 1 <p>
     kalimat yang saling mendukung sehingga menjadi satu kesatuan. Paragraf dibuat dengan menggunakan tag dasar html.</p>
   
   <h4>Menambahkan Gambar</h4>
-  "<img width="300" height="300" alt="logo_UPB" src="https://github.com/user-attachments/assets/30c704a4-19b9-4f08-81dd-f78fa6ded3e7" />
+  "<img width="300" alt="logo_UPB" src="https://github.com/user-attachments/assets/30c704a4-19b9-4f08-81dd-f78fa6ded3e7" />
 
 </body>
 </html>
