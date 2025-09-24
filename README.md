@@ -23,8 +23,8 @@
   <p align="right">Ini merupakan sebuah paragraf yang terdiri dari beberapa
     kalimat yang saling mendukung sehingga menjadi satu kesatuan. Paragraf dibuat dengan menggunakan tag dasar html.</p>
   
-  <h4>Menambahkan Gambar</h4>
-  <img src="Logo_UPB.png" title="Logo Universitas Pelita Bangsa">
+    <h4>Menambahkan Gambar</h4>
+  <img width="225" height="225" alt="logo_UPB" src="https://github.com/user-attachments/assets/2bc669e9-1f55-443d-9ace-ad328a2ae415" />
 
 </body>
 </html>
