@@ -29,13 +29,14 @@ Mata Kuliah: Pemograman Web 1 <p>
     kalimat yang saling mendukung sehingga menjadi satu kesatuan. Paragraf dibuat dengan menggunakan tag dasar html.</p>
   
   <h4>Menambahkan Gambar</h4>
-  "<img width="225" heigth="225" alt="logo_UPB" src="https://github.com/user-attachments/assets/30c704a4-19b9-4f08-81dd-f78fa6ded3e7" />
+  <img width="225" heigth="225" alt="logo_UPB" src="https://github.com/user-attachments/assets/30c704a4-19b9-4f08-81dd-f78fa6ded3e7" />
 
 </body>
 </html>
 
 
 1. Perubahan Kode dan Error Penulisan Tag
+   >  jika Anda salah menulis <h1> sebagai <h1 atau </h1 sebagai </H1, peramban kemungkinan besar akan tetap menampilkannya dengan benar. Namun, kesalahan seperti penulisan nama tag yang salah (misalnya, <p tanpa    >) atau penutupan tag yang tidak tepat bisa menyebabkan tampilan halaman menjadi tidak sesuai dengan yang diharapkan. Bagian dari halaman mungkin tidak terlihat, atau pemformatan teks menjadi kacau. Ini bukan     "error" dalam arti program crash, melainkan kesalahan render yang membuat tampilan jadi berantakan.
 2. Perbedaan Tag <p> & <br>
    > Secara sederhana, <p> memulai paragraf baru dengan spasi, sedangkan <br> hanya memindahkan kursor ke baris baru.
 3. Perbedaan Atribut title dan alt pada Tag <img>
@@ -46,7 +47,7 @@ Mata Kuliah: Pemograman Web 1 <p>
      - width = ukuran lebar gambar
      - rsc = ukuran gambar yang ditampilkan 
 4. Mengatur Ukuran Gambar (width dan height)
-   > "<img width="225" heigth="225" alt="logo_UPB" src="https://github.com/user-attachments/assets/30c704a4-19b9-4f08-81dd-f78fa6ded3e7" />
+   "<img width="225" heigth="225" alt="logo_UPB" src="https://github.com/user-attachments/assets/30c704a4-19b9-4f08-81dd-f78fa6ded3e7" />
 5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, _parent )
    > _blank: Tautan akan dibuka di jendela atau tab peramban baru.
    > _self: Tautan akan dibuka di jendela atau tab yang sama dengan dokumen saat ini. Ini adalah perilaku bawaan (default) jika atribut target tidak ditentukan.
