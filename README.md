@@ -24,7 +24,8 @@
     kalimat yang saling mendukung sehingga menjadi satu kesatuan. Paragraf dibuat dengan menggunakan tag dasar html.</p>
   
   <h4>Menambahkan Gambar</h4>
-  <img src="Logo_UPB.png" title="Logo Universitas Pelita Bangsa">
+  <img src="<img width="225" height="225" alt="logo_UPB" src="https://github.com/user-attachments/assets/30c704a4-19b9-4f08-81dd-f78fa6ded3e7" />
+" title="Logo Universitas Pelita Bangsa">
 
 </body>
 </html>
