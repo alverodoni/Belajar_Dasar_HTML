@@ -40,7 +40,7 @@ Mata Kuliah: Pemograman Web 1 <p>
 ### 2. Perbedaan Tag p & br
    - Secara sederhana <p> memulai paragraf baru dengan spasi, sedangkan <br> hanya memindahkan kursor ke baris baru.
 ### 3. Perbedaan Atribut title dan alt pada Tag <img>
-   > Image atau gambar dapat disisipkan kedalam halaman web. HTML menyediakan tag khusus untuk dapat menampilkan gambar. Tag yang digunakan untuk menampilkan gambar adalag <img> dengan atribut src sebagai URL          atau Path file gambar berada. Tag ini dapat memuat gambar dengan berbagai jenis ekstensi file gambar.
+   - Image atau gambar dapat disisipkan kedalam halaman web. HTML menyediakan tag khusus untuk dapat menampilkan gambar. Tag yang digunakan untuk menampilkan gambar adalag <img> dengan atribut src sebagai URL          atau Path file gambar berada. Tag ini dapat memuat gambar dengan berbagai jenis ekstensi file gambar.
      - title = judul gambar
      - alt = deskripsi tentang gambar
      - height = ukuran tinggi badan
